@@ -145,6 +145,7 @@ Here is a non-comprehensive list of third-party plugins. If you have a plugin yo
 | Mastodon  | Simple Mastodon plugin to send toots through a Mastodon account | [ppetermann/AutoGPTMastodonPlugin](https://github.com/ppetermann/AutoGPTMastodonPlugin)|
 | MetaTrader | Connect your MetaTrader Account to Auto-GPT. | [isaiahbjork/Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/Auto-GPT-MetaTrader-Plugin) |
 | Mindware | The App Store for AutoGPT. With one API key, unlock access to a growing list of plugins. | [open-mindware/AutoGPT-Mindware](https://github.com/open-mindware/AutoGPT-Mindware) |
+| MoltsPay | Pay for AI services with crypto (USDC). Enables agents to discover, pay for, and execute paid services autonomously using x402 protocol. | [Yaqing2023/autogpt-moltspay-plugin](https://github.com/Yaqing2023/autogpt-moltspay-plugin) |
 | Notion      | Notion plugin for Auto-GPT.  | [doutv/Auto-GPT-Notion](https://github.com/doutv/Auto-GPT-Notion) |
 | Slack | This plugin allows to receive commands and send messages to slack channels | [adithya77/Auto-GPT-slack-plugin](https://github.com/adithya77/Auto-GPT-slack-plugin)
 | Spoonacular | Find recipe insiprations using Auto-GPT | [minfenglu/Auto-GPT-Spoonacular-Plugin](https://github.com/minfenglu/Auto-GPT-Spoonacular-Plugin)
